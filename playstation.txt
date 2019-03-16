@@ -1,0 +1,15 @@
+auth.np.ac.playstation.net
+np.stun.playstation.net
+ena.net.playstation.net
+ps3.update.playstation.net
+service.playstation.net
+creepo.ww.hl.playstation.net
+np.community.playstation.net
+manuals.playstation.net
+fuk01.ps4.update.playstation.net
+duk01.ps4.update.playstation.net
+fus01.ps4.update.playstation.net
+al02.cdn.update.playstation.net
+a01.cdn.update.playstation.org.edgesuite.net
+playstation.sony.akadns.net
+a192.d.akamai.net
